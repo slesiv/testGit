@@ -1,2 +1,2 @@
 print(System.out.print);
-print(Some string)
+print(Some)
